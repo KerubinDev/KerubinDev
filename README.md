@@ -1,4 +1,4 @@
-- 👋 Olá, sou @KerubinDev
+- 👋 Olá, sou Kerubin
 - 👀 Sou interesado em muitas coisas mas principalmente jogos
 - 🌱 Atualmente estou no curso de desenvolvimento de sistemas 
 - 💞️ Procuro colaborar em qualuqer coisa que eu possa ajudar
