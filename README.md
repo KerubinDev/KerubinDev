@@ -35,7 +35,7 @@
 
 ### Projects:
 - 📈 [Omega Group Projects](#): Collaborative projects for clients, focusing on databases and integrated programs.
-- 💡 [Graphic Design Portfolio](#): Showcasing my designs and marketing projects.
+- 💡 [Graphic Design Portfolio]((https://www.behance.net/kelvinmoraes5): Showcasing my designs and marketing projects.
 - 🏆 [Therapeutic Group Promotion](#): Video promotional projects for therapeutic groups.
 
 ---
