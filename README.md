@@ -2,9 +2,7 @@ Claro! Aqui está uma versão aprimorada do seu README do GitHub:
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Kerubin+%7C+Developer+%7C+Artist+%7C+Gamer" alt="Banner Image">
-</div>
+[!Banner](https://github.com/KerubinDev/KerubinDev/blob/main/BannerImage.png)
 
 # Hi there 👋, I'm Kelvin Moraes!
 
