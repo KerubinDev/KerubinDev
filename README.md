@@ -1,12 +1,49 @@
-- 👋 Olá, sou Kerubin
-- 👀 Sou interesado em muitas coisas mas principalmente jogos
-- 🌱 Atualmente estou no curso de desenvolvimento de sistemas 
-- 💞️ Procuro colaborar em qualquer coisa que eu possa ajudar
-- 📫 Pra entrar em contado comigo pode mandar um gmail kelvin.moraes117@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Sou produtor de jogos, Vtuber, Desenhista e cantor
+### Hi there 👋, I'm Kerubin!
 
-<!---
-KerubinDev/KerubinDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![Banner Image](https://github.com/KerubinDev/BannerImage.png)
+
+#### About Me:
+- 🌟 **Name:** Kelvin Moraes
+- 🎮 **Interests:** Passionate about game development
+- 💻 **Current Status:** Studying Systems Development
+- 🤝 **Looking to Collaborate:** On exciting projects where I can contribute and learn
+- 📧 **Contact:** [kelvin.moraes117@gmail.com](mailto:kelvin.moraes117@gmail.com)
+- 👤 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I'm also a Vtuber, artist, and singer!
+
+---
+
+#### My Skills:
+- **Programming Languages:** C++, Python, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Game Development:** Unity, Unreal Engine
+- **Design Tools:** Photoshop, Illustrator
+
+---
+
+#### Projects:
+- 📈 [Contagem De Notas](https://github.com/KerubinDev/contagemDeNotasComC-): A C++ project for counting grades.
+- 💡 [Sei-lá](https://github.com/KerubinDev/Sei-l---): An interesting repository with unique solutions.
+- 🏆 [Primeiro Repositório](https://github.com/KerubinDev/Primeiro-reposit-rio): My first repository showcasing my journey.
+
+---
+
+#### Connect with Me:
+- 🐦 [Twitter](https://x.com/KERUBIN_m?s=09)
+- 💼 [LinkedIn](https://linkedin.com/in/Kelvin-Moraes)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KerubinDev&show_icons=true&theme=radical)
+
+---
+
+*Thank you for visiting my GitHub profile! Feel free to reach out and connect!*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KerubinDev&style=flat-square" alt="KerubinDev" />
+</div>
