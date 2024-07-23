@@ -4,12 +4,12 @@ Claro! Aqui está uma versão aprimorada do seu README do GitHub:
 
 ![Banner](https://github.com/KerubinDev/KerubinDev/blob/main/BannerImage.png)
 
-# Hi there 👋, I'm Kelvin Moraes!
+# Hi there 👋, I'm Kelvin Moraes(Kerubin)!
 
 ---
 
 ### About Me:
-- 🌟 **Name:** Kelvin Moraes
+- 🌟 **Name:** Kelvin Moraes(Kerubin)
 - 🎮 **Interests:** Technology and Administration
 - 💻 **Current Status:** Studying Bilingual Systems Development at Senac
 - 🎨 **Past Experience:** Graphic Design and Digital Marketing, Former Teacher at E-pro
