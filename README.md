@@ -16,10 +16,9 @@
 ---
 
 #### My Skills:
-- **Programming Languages:** C++, Python, JavaScript
-- **Web Development:** HTML, CSS, React
-- **Game Development:** Unity, Unreal Engine
-- **Design Tools:** Photoshop, Illustrator
+- **Programming Languages:** C++, SQL
+- **Game Development:** Game Maker
+- **Design Tools:** Photoshop, Illustrator, Indesign, Corel Draw, Canva
 
 ---
 
