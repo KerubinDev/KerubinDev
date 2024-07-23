@@ -2,7 +2,7 @@
 
 ---
 
-![Banner Image](https://github.com/KerubinDev/BannerImage.png)
+![Banner Image](https://github.com/KerubinDev/KerubinDev/blob/main/BannerImage.png)
 
 #### About Me:
 - 🌟 **Name:** Kelvin Moraes
