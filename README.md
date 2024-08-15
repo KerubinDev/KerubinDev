@@ -23,6 +23,7 @@
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![GML](https://img.shields.io/badge/-GML-074050?style=flat-square)
   - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  - ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 - **Game Development:**
   - ![Game Maker](https://img.shields.io/badge/-Game%20Maker-83B81A?style=flat-square&logo=gamemaker&logoColor=white)
 - **Design Tools:**
