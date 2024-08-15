@@ -23,7 +23,7 @@
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![GML](https://img.shields.io/badge/-GML-074050?style=flat-square)
   - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+  - https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
 - **Game Development:**
   - ![Game Maker](https://img.shields.io/badge/-Game%20Maker-83B81A?style=flat-square&logo=gamemaker&logoColor=white)
 - **Design Tools:**
