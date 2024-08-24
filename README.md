@@ -58,18 +58,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KerubinDev&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KerubinDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ---
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=KerubinDev&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to reach out and connect!*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KerubinDev&style=flat-square" alt="KerubinDev">
-</div>
