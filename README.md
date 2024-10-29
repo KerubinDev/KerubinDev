@@ -6,7 +6,7 @@
 
 </div>
 
-[Leia em Português - 🇧🇷](README.pt_BR.md)
+[Leia em Português - 🇧🇷](README_pt_BR.md)
 [日本語で読む - 🇯🇵](README_JP.md)
 
 ## 🚀 About Me
