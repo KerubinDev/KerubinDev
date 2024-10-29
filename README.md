@@ -1,109 +1,115 @@
----
-
-![Banner](https://github.com/KerubinDev/KerubinDev/blob/main/BannerImage.png)
-
-# Hi there 👋, I'm Kelvin Moraes (Kerubin)!
-
----
-
-## 🚀 About Me:
-- 🌟 **Name:** Kelvin Moraes (Kerubin)
-- 🎮 **Interests:** Technology, Game Development, and Administration
-- 💻 **Current Status:** Studying Bilingual Systems Development at Senac
-- 🎨 **Past Experience:** Graphic Design and Digital Marketing, Former Teacher at E-pro
-- 📧 **Contact:** [kelvin.moraes117@gmail.com](mailto:kelvin.moraes117@gmail.com)
-- 👤 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I have a deep knowledge of psychology and psychoanalysis, and I enjoy coding with classical music 🎶!
-
----
-
-## 💻 My Skills:
-### 🖥️ Programming Languages:
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![GML](https://img.shields.io/badge/-GML-074050?style=flat-square)
-- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-### 🎮 Game Development:
-- ![Game Maker](https://img.shields.io/badge/-Game%20Maker-83B81A?style=flat-square&logo=gamemaker&logoColor=white)
-
-### 🎨 Design Tools:
-- ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-- ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-- ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-- ![Indesign](https://img.shields.io/badge/-Indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
-
----
-
-## 💡 Projects:
-### 📚 School Management System
-- 🔗 [Gerenciamento Escolar](https://github.com/gdbarros94/gerenciamento-Escolar): A comprehensive school management system focused on improving educational efficiency with user-friendly tools.
+<div align="center">
   
-### 🛠️ Python Kanban
-- 🔗 [Python-Kanban](https://github.com/FloatingOctothorpe/python-kanban): A simple and effective kanban board system developed with Python.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kelvin%20Moraes&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Game%20Dev%20|%20Designer&descAlignY=51&descAlign=62)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Game+Developer;UI%2FUX+Designer;Creative+Technology+Solutions)](https://git.io/typing-svg)
 
-## 🏆 Achievements:
-- Contributed to various **open-source projects**, helping teams improve their workflow and manage resources effectively.
-- Developed marketing strategies for **graphic design** and **digital marketing** projects.
-- Former **Teacher at E-pro**, empowering students with the tools they need to succeed in tech and design fields.
-
----
-
-## 🎉 Fun Facts:
-- I am deeply fascinated by **psychology** and **psychoanalysis** 🧠!
-- I enjoy solving **complex puzzles** in coding and life!
-- Sometimes, I like to code while listening to **classical music** 🎶.
-- I’m always eager to **learn new things** and **expand my knowledge**!
-
----
-
-## 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KerubinDev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
+## 🚀 About Me
+
+Name: Kelvin Moraes (Kerubin)
+Location: Brazil
+Current: 
+  - Bilingual Systems Development Student at Senac
+  - Full Stack Developer
+  - Game Developer
+Experience:
+  - Full Stack Development
+  - Game Development
+  - Graphic Design
+  - Digital Marketing
+  - Teaching at E-pro
+Contact: kelvin.moraes117@gmail.com
+Pronouns: He/Him
+
+## 💻 Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerubinDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
+| Front-end | Back-end | Game Dev | Design |
+|:-:|:-:|:-:|:-:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![GML](https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white) | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white) | ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white) |
+
 </div>
 
----
+## 🎯 Featured Projects
 
-## 🔥 Streak Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KerubinDev&theme=radical" alt="GitHub Streak Stats">
+
+[![School Management](https://github-readme-stats.vercel.app/api/pin/?username=gdbarros94&repo=gerenciamento-Escolar&theme=radical)](https://github.com/gdbarros94/gerenciamento-Escolar)
+[![Python Kanban](https://github-readme-stats.vercel.app/api/pin/?username=FloatingOctothorpe&repo=python-kanban&theme=radical)](https://github.com/FloatingOctothorpe/python-kanban)
+
 </div>
 
----
+## 🏆 Achievements & Experience
+yaml
+Professional:
+  - Full Stack Development Projects
+  - Game Development Experience
+  - Digital Marketing Strategies
+  - Teaching Experience at E-pro
+  - Open Source Contributions
 
-## 🌍 Connect with Me:
+Technical Skills:
+  - Web Development
+  - Database Management
+  - Game Design
+  - UI/UX Design
+  - Digital Marketing
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://x.com/KERUBIN_m?s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=KerubinDev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=KerubinDev&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KerubinDev&theme=radical&hide_border=true" alt="Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KerubinDev&theme=radical&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelvin-moraes-a8a8452ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/kelvin-moraes-a8a8452ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://x.com/KERUBIN_m?s=09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:kelvin.moraes117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
----
+## 🎵 Fun Facts
 
-## 💬 Feedback:
-I'm always open to feedback and collaboration! If you have any suggestions or ideas, feel free to reach out or create an issue!
+- 🧠 Passionate about psychology and psychoanalysis
+- 🎹 Love coding while listening to classical music
+- 🧩 Enjoy solving complex puzzles in both code and life
+- 📚 Always eager to learn and expand knowledge
 
----
-
-## 📊 Visitors:
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KerubinDev&icon=0&color=0">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Quote" />
+
+![Snake animation](https://github.com/KerubinDev/KerubinDev/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://komarev.com/ghpvc/?username=KerubinDev&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+
 </div>
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
----
-
-*Thank you for visiting my GitHub profile! Feel free to connect and explore my projects!* 
