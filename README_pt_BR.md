@@ -38,6 +38,7 @@ Pronomes: Ele/Dele
 ## 🎯 Projetos em Destaque
 
 <div align="center">
+  
 [![Kerubin AI](https://github-readme-stats.vercel.app/api/pin/?username=KerubinDev&repo=Kerubin_AI&theme=radical)](https://github.com/KerubinDev/Kerubin_AI)
 [![Gerenciamento Escolar](https://github-readme-stats.vercel.app/api/pin/?username=gdbarros94&repo=gerenciamento-Escolar&theme=radical)](https://github.com/gdbarros94/gerenciamento-Escolar)  
 [![Python Kanban](https://github-readme-stats.vercel.app/api/pin/?username=FloatingOctothorpe&repo=python-kanban&theme=radical)](https://github.com/FloatingOctothorpe/python-kanban)
