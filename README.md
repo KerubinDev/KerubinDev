@@ -42,13 +42,13 @@ Pronouns: He/Him
 
 <div align="center">
 
+[![Kerubin AI](https://github-readme-stats.vercel.app/api/pin/?username=KerubinDev&repo=Kerubin_AI&theme=radical)](https://github.com/KerubinDev/Kerubin_AI)
 [![School Management](https://github-readme-stats.vercel.app/api/pin/?username=gdbarros94&repo=gerenciamento-Escolar&theme=radical)](https://github.com/gdbarros94/gerenciamento-Escolar)
 [![Python Kanban](https://github-readme-stats.vercel.app/api/pin/?username=FloatingOctothorpe&repo=python-kanban&theme=radical)](https://github.com/FloatingOctothorpe/python-kanban)
 
 </div>
 
 ## 🏆 Achievements & Experience
-yaml
 Professional:
   - Full Stack Development Projects
   - Game Development Experience
