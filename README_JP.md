@@ -39,6 +39,7 @@
 
 <div align="center">
 
+[![ケルビンAI](https://github-readme-stats.vercel.app/api/pin/?username=KerubinDev&repo=Kerubin_AI&theme=radical)](https://github.com/KerubinDev/Kerubin_AI)
 [![学校管理](https://github-readme-stats.vercel.app/api/pin/?username=gdbarros94&repo=gerenciamento-Escolar&theme=radical)](https://github.com/gdbarros94/gerenciamento-Escolar)  
 [![Pythonカンバン](https://github-readme-stats.vercel.app/api/pin/?username=FloatingOctothorpe&repo=python-kanban&theme=radical)](https://github.com/FloatingOctothorpe/python-kanban)
 
