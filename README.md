@@ -1,506 +1,118 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kelvin Moraes | Desenvolvedor Full Stack</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        :root {
-            --cor-primaria: #0a192f;
-            --cor-secundaria: #64ffda;
-            --cor-texto: #ccd6f6;
-            --cor-texto-secundario: #8892b0;
-            --fonte-principal: 'Calibre', sans-serif;
-            --fonte-codigo: 'SF Mono', monospace;
-        }
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kelvin%20Moraes&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Game%20Dev%20|%20Designer&descAlignY=51&descAlign=62)
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            scroll-behavior: smooth;
-        }
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Game+Developer;UI%2FUX+Designer;Creative+Technology+Solutions)](https://git.io/typing-svg)
 
-        body {
-            background-color: var(--cor-primaria);
-            color: var(--cor-texto);
-            font-family: var(--fonte-principal);
-            line-height: 1.6;
-        }
+</div>
 
-        /* Animação de entrada */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+[Leia em Português - 🇧🇷](README_pt_BR.md)
+[日本語で読む - 🇯🇵](README_JP.md)
 
-        /* Hero Section */
-        .hero {
-            height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-            overflow: hidden;
-        }
+## 🚀 About Me
 
-        .hero-content {
-            text-align: left;
-            max-width: 1000px;
-            padding: 0 2rem;
-            animation: fadeInUp 1s ease-out;
-        }
+Name: Kelvin Moraes (Kerubin)
+Location: Brazil
+Current: 
+  - Bilingual Systems Development Student at Senac
+  - Full Stack Developer
+  - Game Developer
+Experience:
+  - Full Stack Development
+  - Game Development
+  - Graphic Design
+  - Digital Marketing
+  - Teaching at E-pro
+Contact: kelvin.moraes117@gmail.com
+Pronouns: He/Him
 
-        .hero-subtitle {
-            color: var(--cor-secundaria);
-            font-family: var(--fonte-codigo);
-            font-size: 1.1rem;
-            margin-bottom: 1rem;
-        }
+## 💻 Tech Stack
 
-        .hero h1 {
-            font-size: 5rem;
-            margin-bottom: 1rem;
-            line-height: 1.1;
-        }
+<div align="center">
 
-        .hero h2 {
-            font-size: 3rem;
-            color: var(--cor-texto-secundario);
-            margin-bottom: 2rem;
-        }
+| Front-end | Back-end | Game Dev | Design |
+|:-:|:-:|:-:|:-:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![GML](https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white) | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white) | ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white) |
 
-        .hero p {
-            font-size: 1.2rem;
-            color: var(--cor-texto-secundario);
-            max-width: 540px;
-            margin-bottom: 2rem;
-        }
+</div>
 
-        /* Projetos */
-        .projetos {
-            padding: 100px 2rem;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+## 🎯 Featured Projects
 
-        .projetos-titulo {
-            font-size: 2.5rem;
-            color: var(--cor-texto);
-            margin-bottom: 3rem;
-            text-align: center;
-            position: relative;
-        }
+<div align="center">
 
-        .projetos-titulo::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80px;
-            height: 4px;
-            background: var(--cor-secundaria);
-            border-radius: 2px;
-        }
+[![Kerubin AI](https://github-readme-stats.vercel.app/api/pin/?username=KerubinDev&repo=Kerubin_AI&theme=radical)](https://github.com/KerubinDev/Kerubin_AI)
+[![School Management](https://github-readme-stats.vercel.app/api/pin/?username=gdbarros94&repo=gerenciamento-Escolar&theme=radical)](https://github.com/gdbarros94/gerenciamento-Escolar)
+[![Python Kanban](https://github-readme-stats.vercel.app/api/pin/?username=FloatingOctothorpe&repo=python-kanban&theme=radical)](https://github.com/FloatingOctothorpe/python-kanban)
 
-        .projetos-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            perspective: 1000px;
-        }
+</div>
 
-        .projeto-card {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(100, 255, 218, 0.1);
-            border-radius: 15px;
-            padding: 2rem;
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            backdrop-filter: blur(5px);
-            position: relative;
-            overflow: hidden;
-        }
+## 🏆 Achievements & Experience
+Professional:
+  - Full Stack Development Projects
+  - Game Development Experience
+  - Digital Marketing Strategies
+  - Teaching Experience at E-pro
+  - Open Source Contributions
 
-        .projeto-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(
-                90deg,
-                transparent,
-                rgba(100, 255, 218, 0.1),
-                transparent
-            );
-            transition: 0.5s;
-        }
+Technical Skills:
+  - Web Development
+  - Database Management
+  - Game Design
+  - UI/UX Design
+  - Digital Marketing
 
-        .projeto-card:hover {
-            transform: translateY(-10px) rotateX(5deg);
-            box-shadow: 0 10px 30px rgba(100, 255, 218, 0.1);
-            border-color: var(--cor-secundaria);
-        }
+## 📊 GitHub Analytics
 
-        .projeto-card:hover::before {
-            left: 100%;
-        }
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=KerubinDev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
-        .projeto-imagem {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 10px;
-            margin-bottom: 1.5rem;
-            border: 1px solid rgba(100, 255, 218, 0.2);
-        }
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=KerubinDev&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KerubinDev&theme=radical&hide_border=true" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
-        .projeto-titulo {
-            font-size: 1.5rem;
-            color: var(--cor-texto);
-            margin-bottom: 1rem;
-        }
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KerubinDev&theme=radical&hide_border=true" width="100%" alt="Activity Graph" />
 
-        .projeto-descricao {
-            color: var(--cor-texto-secundario);
-            margin-bottom: 1.5rem;
-            line-height: 1.6;
-        }
+</div>
 
-        .projeto-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.8rem;
-            margin-bottom: 1.5rem;
-        }
+## 🌐 Connect With Me
 
-        .tech-tag {
-            font-family: var(--fonte-codigo);
-            font-size: 0.8rem;
-            color: var(--cor-secundaria);
-            padding: 0.3rem 0.8rem;
-            background: rgba(100, 255, 218, 0.1);
-            border-radius: 20px;
-            transition: all 0.3s ease;
-        }
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelvin-moraes-a8a8452ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/KERUBIN_m?s=09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:kelvin.moraes117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-        .projeto-links {
-            display: flex;
-            gap: 1rem;
-        }
+## 🎵 Fun Facts
 
-        .projeto-link {
-            color: var(--cor-secundaria);
-            font-size: 1.2rem;
-            transition: all 0.3s ease;
-        }
+- 🧠 Passionate about psychology and psychoanalysis
+- 🎹 Love coding while listening to classical music
+- 🧩 Enjoy solving complex puzzles in both code and life
+- 📚 Always eager to learn and expand knowledge
 
-        .projeto-link:hover {
-            transform: translateY(-3px);
-            color: var(--cor-texto);
-        }
+<div align="center">
 
-        /* Botões */
-        .btn {
-            display: inline-block;
-            padding: 1rem 2rem;
-            border: 1px solid var(--cor-secundaria);
-            color: var(--cor-secundaria);
-            text-decoration: none;
-            border-radius: 4px;
-            font-family: var(--fonte-codigo);
-            font-size: 0.9rem;
-            transition: all 0.3s ease;
-            margin-right: 1rem;
-        }
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Quote" />
 
-        .btn:hover {
-            background: rgba(100, 255, 218, 0.1);
-        }
+![Snake animation](https://github.com/KerubinDev/KerubinDev/blob/output/github-contribution-grid-snake.svg)
 
-        /* Partículas de fundo */
-        #particles-js {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            z-index: 1;
-        }
+<img src="https://komarev.com/ghpvc/?username=KerubinDev&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-        .content {
-            position: relative;
-            z-index: 2;
-        }
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
-        /* Estilos para a seção de contato */
-        .contato {
-            padding: 100px 2rem;
-            background: linear-gradient(
-                to bottom,
-                var(--cor-primaria),
-                rgba(10, 25, 47, 0.95)
-            );
-        }
-
-        .contato-titulo {
-            font-size: 2.5rem;
-            color: var(--cor-texto);
-            margin-bottom: 3rem;
-            text-align: center;
-            position: relative;
-        }
-
-        .contato-titulo::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80px;
-            height: 4px;
-            background: var(--cor-secundaria);
-            border-radius: 2px;
-        }
-
-        .contato-container {
-            max-width: 800px;
-            margin: 0 auto;
-            text-align: center;
-        }
-
-        .contato-descricao {
-            font-size: 1.2rem;
-            color: var(--cor-texto-secundario);
-            margin-bottom: 3rem;
-            line-height: 1.8;
-        }
-
-        .contato-links {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            flex-wrap: wrap;
-        }
-
-        .social-link {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 1rem 2rem;
-            border: 1px solid var(--cor-secundaria);
-            border-radius: 8px;
-            color: var(--cor-secundaria);
-            text-decoration: none;
-            font-family: var(--fonte-codigo);
-            transition: all 0.3s ease;
-        }
-
-        .social-link:hover {
-            background: rgba(100, 255, 218, 0.1);
-            transform: translateY(-3px);
-        }
-
-        .social-link i {
-            font-size: 1.2rem;
-        }
-    </style>
-</head>
-<body>
-    <div id="particles-js"></div>
-    
-    <main class="content">
-        <section class="hero">
-            <div class="hero-content">
-                <p class="hero-subtitle">Olá, meu nome é</p>
-                <h1>Kelvin Moraes.</h1>
-                <h2>Eu construo experiências digitais.</h2>
-                <p>Sou um desenvolvedor full stack especializado em criar 
-                   soluções digitais excepcionais. Atualmente, estou focado 
-                   em construir aplicações web escaláveis e acessíveis.</p>
-                <a href="#projetos" class="btn">Ver Projetos</a>
-                <a href="#contato" class="btn">Entrar em Contato</a>
-            </div>
-        </section>
-
-        <section class="projetos" id="projetos">
-            <h2 class="projetos-titulo">Projetos em Destaque</h2>
-            <div class="projetos-grid">
-                <!-- Kerubin AI -->
-                <article class="projeto-card">
-                    <img src="assets/kerubin-ai.jpg" alt="Kerubin AI" class="projeto-imagem">
-                    <h3 class="projeto-titulo">Kerubin AI</h3>
-                    <p class="projeto-descricao">
-                        Assistente virtual inteligente com integração de IA para 
-                        automação de tarefas e análise de dados educacionais.
-                    </p>
-                    <div class="projeto-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">TensorFlow</span>
-                        <span class="tech-tag">React</span>
-                        <span class="tech-tag">Node.js</span>
-                    </div>
-                    <div class="projeto-links">
-                        <a href="https://github.com/KerubinDev/Kerubin_AI" 
-                           class="projeto-link" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" class="projeto-link" target="_blank">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </article>
-
-                <!-- Sistema de Gerenciamento Escolar -->
-                <article class="projeto-card">
-                    <img src="assets/school-management.jpg" alt="Gerenciamento Escolar" 
-                         class="projeto-imagem">
-                    <h3 class="projeto-titulo">Sistema de Gestão Escolar</h3>
-                    <p class="projeto-descricao">
-                        Plataforma completa para gestão escolar com recursos de 
-                        administração, notas e comunicação.
-                    </p>
-                    <div class="projeto-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">SQL</span>
-                        <span class="tech-tag">JavaScript</span>
-                        <span class="tech-tag">HTML/CSS</span>
-                    </div>
-                    <div class="projeto-links">
-                        <a href="https://github.com/gdbarros94/gerenciamento-Escolar" 
-                           class="projeto-link" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" class="projeto-link" target="_blank">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </article>
-
-                <!-- Python Kanban -->
-                <article class="projeto-card">
-                    <img src="assets/kanban.jpg" alt="Python Kanban" class="projeto-imagem">
-                    <h3 class="projeto-titulo">Python Kanban</h3>
-                    <p class="projeto-descricao">
-                        Sistema Kanban desenvolvido em Python para gestão ágil de projetos 
-                        e tarefas.
-                    </p>
-                    <div class="projeto-tech">
-                        <span class="tech-tag">Python</span>
-                        <span class="tech-tag">SQLite</span>
-                        <span class="tech-tag">PyQt</span>
-                    </div>
-                    <div class="projeto-links">
-                        <a href="https://github.com/FloatingOctothorpe/python-kanban" 
-                           class="projeto-link" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" class="projeto-link" target="_blank">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </article>
-            </div>
-        </section>
-
-        <!-- Nova Seção de Contato -->
-        <section class="contato" id="contato">
-            <h2 class="contato-titulo">Vamos Conversar?</h2>
-            <div class="contato-container">
-                <div class="contato-info">
-                    <p class="contato-descricao">
-                        Estou sempre interessado em novos projetos e oportunidades de 
-                        colaboração. Sinta-se à vontade para entrar em contato!
-                    </p>
-                    <div class="contato-links">
-                        <a href="https://www.linkedin.com/in/kelvin-moraes-a8a8452ba" 
-                           class="social-link linkedin" target="_blank">
-                            <i class="fab fa-linkedin"></i>
-                            <span>LinkedIn</span>
-                        </a>
-                        <a href="https://x.com/KERUBIN_m?s=09" 
-                           class="social-link twitter" target="_blank">
-                            <i class="fab fa-twitter"></i>
-                            <span>Twitter</span>
-                        </a>
-                        <a href="mailto:kelvin.moraes117@gmail.com" 
-                           class="social-link email">
-                            <i class="fas fa-envelope"></i>
-                            <span>Email</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Scripts -->
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-    <script>
-        particlesJS('particles-js',
-        {
-            "particles": {
-                "number": {
-                    "value": 80,
-                    "density": {
-                        "enable": true,
-                        "value_area": 800
-                    }
-                },
-                "color": {
-                    "value": "#64ffda"
-                },
-                "shape": {
-                    "type": "circle"
-                },
-                "opacity": {
-                    "value": 0.5,
-                    "random": false
-                },
-                "size": {
-                    "value": 3,
-                    "random": true
-                },
-                "line_linked": {
-                    "enable": true,
-                    "distance": 150,
-                    "color": "#64ffda",
-                    "opacity": 0.4,
-                    "width": 1
-                },
-                "move": {
-                    "enable": true,
-                    "speed": 6,
-                    "direction": "none",
-                    "random": false,
-                    "straight": false,
-                    "out_mode": "out",
-                    "bounce": false
-                }
-            },
-            "interactivity": {
-                "detect_on": "canvas",
-                "events": {
-                    "onhover": {
-                        "enable": true,
-                        "mode": "repulse"
-                    },
-                    "onclick": {
-                        "enable": true,
-                        "mode": "push"
-                    },
-                    "resize": true
-                }
-            },
-            "retina_detect": true
-        });
-    </script>
-</body>
-</html>
+</div>
